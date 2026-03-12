@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://aniruddhagrahari.github.io/">
+  <a href="https://aniruddhagrahari.github.io/myportfolio/">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:agraharianiruddha@gmail.com">
