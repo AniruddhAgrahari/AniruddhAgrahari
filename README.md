@@ -182,7 +182,7 @@ A project to detect counterfeit Ayurvedic medicines using computer vision and bl
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AniruddhAgrahari&theme=tokyonight&no-frame=true&column=4&row=2" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AniruddhAgrahari&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
