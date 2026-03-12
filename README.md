@@ -21,7 +21,7 @@
 - 🎓 **Student** at **Chandigarh University** (Enrollment: 22BAI71310)
 - 💡 Passionate about **AI/ML**, **Full-Stack Development**, and **Multi-Agent Systems**
 - 🔬 Research interests in **Emotion Recognition**, **Computer Vision**, and **Cryptography**
-- 🌐 Portfolio: [aniruddhagrahari.github.io](https://aniruddhagrahari.github.io/)
+- 🌐 Portfolio: [aniruddhagrahari.github.io](https://aniruddhagrahari.github.io/myportfolio/)
 - 🚀 Actively building innovative tools and AI-powered applications
 - 📬 Reach me at: **agraharianiruddha@gmail.com**
 
