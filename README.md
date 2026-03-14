@@ -18,7 +18,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Student** at **Chandigarh University** (Enrollment: 22BAI71310)
+- 🎓 **Student** at **Chandigarh University**
+- 🏦Incoming GDE @ **Standard Chartered India**
 - 💡 Passionate about **AI/ML**, **Full-Stack Development**, and **Multi-Agent Systems**
 - 🔬 Research interests in **Emotion Recognition**, **Computer Vision**, and **Cryptography**
 - 🌐 Portfolio: [aniruddhagrahari.github.io](https://aniruddhagrahari.github.io/myportfolio/)
@@ -66,14 +67,13 @@
 
 
 ### 🤖 [Synoptic AI — Multi-Agent Orchestrator](https://github.com/AniruddhAgrahari/multi-agent-orchestrator)
-A multi-agent orchestrator system with a Daily Briefing Agent, deployed on GitHub Pages with a Python backend on Render.
-
+A multi agent system with two sub agents which provide news and weather, the agent orchestrator combines them and provides situation aware suggestions based on the information.
 `Python` · [🔗 Live Demo](https://aniruddhagrahari.github.io/multi-agent-orchestrator/)
 
 ---
 
 ### 🧪 [Intellect Vault](https://github.com/AniruddhAgrahari/Intellect_Vault)
-An intelligent knowledge management platform built with Python and deployed on Streamlit.
+RAG pipeline built with LangChain, powered by Groq API - upload any document, ask questions, get context-aware answers.
 
 `Python` · [🔗 Live App](https://intellectvault-kwz5huixh5ht6aohdadg3k.streamlit.app/)
 
