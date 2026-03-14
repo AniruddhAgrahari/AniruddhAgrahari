@@ -64,26 +64,11 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [SmritiSetu](https://github.com/AniruddhAgrahari/SmritiSetu) — *Memory Bridge*
-> *स्मृतिसेतु — Sanskrit for "Memory Bridge"*
-
-A Chrome extension + local daemon that silently watches your Claude AI conversations, extracts structured project memory, and generates a compact handoff packet so you can continue your work in any new session without re-explaining anything.
-
-`TypeScript` · ⭐ 1
-
----
 
 ### 🤖 [Synoptic AI — Multi-Agent Orchestrator](https://github.com/AniruddhAgrahari/multi-agent-orchestrator)
 A multi-agent orchestrator system with a Daily Briefing Agent, deployed on GitHub Pages with a Python backend on Render.
 
 `Python` · [🔗 Live Demo](https://aniruddhagrahari.github.io/multi-agent-orchestrator/)
-
----
-
-### 📖 [Open Read](https://github.com/AniruddhAgrahari/open_read)
-A lightweight, multi-functionality document viewer built with TypeScript.
-
-`TypeScript` · ⭐ 1 · 🍴 1
 
 ---
 
@@ -94,71 +79,10 @@ An intelligent knowledge management platform built with Python and deployed on S
 
 ---
 
-### 📊 [SmartStock](https://github.com/AniruddhAgrahari/smartstock)
-A smart stock analysis and tracking tool built with Python.
-
-`Python`
-
----
-
-### 😃 [Emotion Recognition](https://github.com/AniruddhAgrahari/emotion-recognition)
-A research paper implementation for emotion recognition using computer vision and deep learning.
-
-`Python`
-
----
-
-### 🔐 [CipherMatrix](https://github.com/AniruddhAgrahari/CipherMatrix)
-An educational platform for exploring vulnerabilities in classical substitution ciphers.
-
-`JavaScript` · [🔗 Live Demo](https://aniruddhagrahari.github.io/CipherMatrix/) · MIT License
-
----
-
 ### 📋 [Real-Time Collaborative Taskboard](https://github.com/AniruddhAgrahari/real-time-collaborative-taskboard)
 A Kanban board where multiple users can drag & drop tasks in real-time.
 
 `JavaScript` · [🔗 Live App](https://real-time-collaborative-taskboard.vercel.app)
-
----
-
-### 🖼️ [Light-Weight SRCNN Model](https://github.com/AniruddhAgrahari/Light-Weight-SRCNN-Model)
-A lightweight Super-Resolution Convolutional Neural Network model for image super-resolution.
-
-`Python`
-
----
-
-### 🍬 [Sweet Shop Management System](https://github.com/AniruddhAgrahari/sweet-shop-management-system)
-A full-stack project for managing a sweet shop, deployed on Vercel.
-
-`Python` · [🔗 Live App](https://sweet-shop-management-system-mocha.vercel.app)
-
----
-
-### 🧩 [HCI Lab](https://github.com/AniruddhAgrahari/hci_lab)
-A lab environment for performing different Human-Computer Interaction experiments.
-
-`JavaScript` · [🔗 Live Demo](https://aniruddhagrahari.github.io/hci_lab/)
-
----
-
-### 🧠 [Cognitive Lab App](https://github.com/AniruddhAgrahari/cognitive_lab_app)
-An app to test cognitive abilities through interactive experiments.
-
-`JavaScript` · [🔗 Live Demo](https://aniruddhagrahari.github.io/cognitive_lab_app/)
-
----
-
-### 🔑 [Vigenère Cipher Lab](https://github.com/AniruddhAgrahari/vignere_cipher_lab)
-A lab for ciphering text using the Vigenère cipher method.
-
-`HTML`
-
----
-
-### 💊 [MedChain Auth](https://github.com/AniruddhAgrahari/medchain-auth)
-A project to detect counterfeit Ayurvedic medicines using computer vision and blockchain.
 
 ---
 
