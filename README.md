@@ -18,8 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Student** at **Chandigarh University**
-- 🏦Incoming GDE @ **Standard Chartered India**
+- 🏦 GDE @ **Standard Chartered India**
 - 💡 Passionate about **AI/ML**, **Full-Stack Development**, and **Multi-Agent Systems**
 - 🔬 Research interests in **Emotion Recognition**, **Computer Vision**, and **Cryptography**
 - 🌐 Portfolio: [aniruddhagrahari.github.io](https://aniruddhagrahari.github.io/myportfolio/)
